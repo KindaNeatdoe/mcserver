@@ -35,4 +35,4 @@ mem=$(($mem/1024/1024))
 # for 1.16 or lower uncomment this line
 java -Xmx${mem}G -Xms${mem}G -jar server.jar nogui
 ```
-Hope this helps!
+
